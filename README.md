@@ -14,9 +14,6 @@ i develop crossplatform stuff with Qt and many other frameworks/libraries. love 
 ## Follow me
 - [Telegram channel](https://t.me/myw4yout)
 
------------------------------------------------------
-[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aw4yout&layout=compact&theme=blue-green)](https://github.com/aw4yout)
-
 <details><summary></summary><details><summary></summary><details><summary></summary><details><summary></summary><details><summary></summary><details><summary></summary>
 <pre>0064eea23ca60e2f9affaf2110657c9a4005933e5d74287b1cf827fb22bb645cbe4e249145b967c6ce1a2a04231adf372395bd184e15a67b0b2c26ab1b27ee719e05c91f60fa9c88c79cae11401458c342c212f75cfd4f78262b85c0b40094c07545024ac0b944fd146c3d033a6e5d8fd9661b7808e4d60ff7bc4bc25129899b475d32155f271bc4fc8f8f3611e62f057b0b1a63fd219b503e0fc3c4f11b294627b0f488aa953411949aa42417f76419::::::::::128cbc</pre>
 </details></details></details></details></details></details>
@@ -45,7 +42,7 @@ Here are some ideas to get you started:
 ██████████████████████         ████       ███████████████████████████████████      ███████████████
 ██████████████████                          █████████████████████████████████████    █████████████
 ███████████████                          ████████████████               █████████████    █████████
-███████████████                      ████████████████░                        █████████ ██████████
+███████████████                      █████████████████                        █████████ ██████████
 ███████████                   ███████████████████████████                        █████████████████
 ███████████  █████████  ███████████████████████████████████                        ███████████████
 ███████████████████████████████████████████████████████████████                      █████████████
